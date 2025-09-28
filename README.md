@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm a grad student from the **School of Computer Science and Engineering** at South China University of Technology. A simple life for me is one filled with good sleep 😌 and epic games 👾. My story? A beautiful symphony of failures🤣.
+
+- I'm fascinated by **Large Language Models (LLMs)** and am currently planning to dive deep into **AI Infrastructure**. Wish me luck—or prepare for me to give up? 😅
+
+- I also have a deep curiosity for computer systems, from the intricacies of **operating systems** to the architecture of **database** and **distributed systems**. Each new discovery feels like the beginning of an endless new chapter. 📖
